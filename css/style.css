@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.body{
+    background-image: url(../HD-wallpaper-buy-snake-pass-snake-game.jpg);
+    min-height: 100vh;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#board{
+    background-color: (linear-gradient(rgb(213, 230, 213) ,rgb(216, 131, 131)));
+    width: 90vmin;
+    height: 92vmin;
+
+
+ width: 90vmin;
+  height: 90vmin;  /* keep square */
+  border: 2px solid #000;
+  position: relative;
+  overflow: hidden;
+   background-color: rgb(177, 166, 152) 
+};
